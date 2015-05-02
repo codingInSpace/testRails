@@ -54,6 +54,6 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
 
-get 'welcome' => 'pages#home'
+  get 'welcome' => 'pages#home'
 
 end
